@@ -38,10 +38,6 @@ There are a few components to your grade in the course:
 
 <img src="./cse_grading_scale.png" width="100%">
 
-
-
-
-
 We may adjust the above scale to be more lenient 
 (depending on a number of factors that we will not publicize), but we guarantee 
 that we will not adjust the scale to make it harder to get a better grade. 
@@ -59,7 +55,8 @@ sections, but it is highly encouraged.
 **In-person sessions** will be led during the normally-scheduled lecture times
 in the normally-scheduled room, led by the instructor. These sessions will be
 recorded by podcasting but will not be available remotely while they are ongoing. 
-You can find the recordings in the Canvas Media Gallery or at [podcast.ucsd.edu](https://podcast.ucsd.edu){:target="_blank"}
+You can find the recordings in the Canvas Media Gallery or 
+at [podcast.ucsd.edu](https://podcast.ucsd.edu){:target="_blank"}
 
 Since these lectures may be mostly student discussion, the recordings are mostly 
 an archive of any live demos that come up rather than a presentation of core content.
@@ -68,7 +65,7 @@ an archive of any live demos that come up rather than a presentation of core con
 
 Teaching Assistants (TAs) will hold a weekly discussion section to cover the weekly 
 programming assignment, review prior content, and answer student questions.
- Participation is not required at problem-solving sections, but it is highly encouraged.
+Participation is not required at problem-solving sections, but it is highly encouraged.
 
 Like lectures, discussions will also be recorded and made available in the 
 Cavnas Media Gallery.
@@ -76,9 +73,8 @@ Cavnas Media Gallery.
 ### Book Exercises/Quizzes and Course Engagement
 
 Along with each lecture will come some required pre-lecture work. Most often
-this will be reading and activities from our [Stepik
-textbook](https://stepik.org/course/100177/syllabus){:target="_blank"}, and will also sometimes
-include surveys or check-in quizzes so we can get your feedback about the course
+this will be reading and activities from our [Stepik textbook](https://stepik.org/course/100177/syllabus){:target="_blank"}, 
+and will also sometimes include surveys or check-in quizzes so we can get your feedback about the course
 and check on your understanding.
 
 The online texbook records your progress, and we give a schedule of expected
@@ -86,29 +82,27 @@ times to finish the readings. There is no penalty for completing these late, but
 they are assigned so that you will be prepared to participate in problem solving
 session and so that you know the expected pace of the course. 
 
-All Stepik exercises must be completed by the last day of class in Week 10: March 11, 2022 at 10pm.
+All Stepik exercises must be completed by the last day of class in Week 5: September 2nd, 2022 at 10pm.
 After this time, no late submissions will be accepted, for any reason.
 
-To ensure you get credit for the Stepik exercises, you must fill out this [form](https://forms.gle/t2CRZkWXVJZtwCdZ8){:target="_blank"}
+To ensure you get credit for the Stepik exercises, you must fill out this 
+[form](https://forms.gle/t2CRZkWXVJZtwCdZ8){:target="_blank"}
 by Friday of Week 1. Starting in Week 2, we will strive to post Stepik grades to Canvas every week.
 
 <a id="p:programming"></a>
 <h3>Programming</h3>
 
-Most weeks there will be a programming assignment. Direct practice with
+Every week there will be one or two programming assignments. Direct practice with
 programming will make up the majority of your work in the course.
 
 There are numerous opportunities to get feedback on your work and improve:
 
-- **Shortly after the deadline** for each assignment, a staff member 
-will grade your work and get feedback on what, if anything, you need to fix.
-
-- **After you receive your grade** you can continue to improve your assignment
+**After you receive your grade** you can continue to improve your assignment
 based on the feedback from grading. You can resubmit your work to the Late/Resubmit 
-submission and request to have your work regraded up to three more times (for each PA). 
+submission and request to have your work regraded one more times (for each PA) using Piazza. 
 A staff member will grade your resubmission and let you know when it has been graded. 
-Note: depending on how busy the staff is, it may take up to a week to grade your resubmission. 
-It may also take another week or so after it's graded before the grade is moved to Canvas.
+Note: depending on how busy the staff is, it may take a few days to grade your resubmission. 
+It may also take a week or so after it's graded before the grade is moved to Canvas.
 
 There is no penalty for resubmissions, you can still earn full credit. 
 We will take the highest score between your original submission and your late/resubmissions.
@@ -118,11 +112,19 @@ to complete each PA before it's posted deadline as the PAs are practice for the 
 You will also receive earlier feedback and an extra grading attempt if you submit
 before the original deadline.
 
-The **Hard deadline** for all late/resubmissions is Friday of Week 10 at 10pm. We will not accept
+The **Hard deadline** for all late/resubmissions is Thursday of Week 5 at 10pm. We will not accept
 any submissions after that time, for any reason.
+
+Each student gets a free “slip day” that allow an automatic 24-hour extension on any programming assignment (PA). 
+You do not have to ask to use your slip day. Just submit your assignment after the deadline 
+(but before 24 hours after the deadline) to automatically use your slip day. 
 
 <a id="g:exams"></a>
 <h3>Exams</h3>
+
+
+
+
 
 In place of on-paper exams, we will follow a different procedure for “exams”
 this quarter.
