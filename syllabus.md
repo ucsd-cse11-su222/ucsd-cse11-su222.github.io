@@ -34,27 +34,10 @@ There are a few components to your grade in the course:
 - Programming assignments
 - Programming assessments (exams)
 
-Score key for mastery:
-- 2 - Mastered: PA or Exam score >= 85%
-- 1 - Some minor/major errors: PA or Exam score >= 60%
-- 0 - Incomplete: PA or Exam score < 60% or did not submit
 
-Your final letter grade will be calculated as follows:
 
-- To get an A or above, you must:
-  - Complete **all** book exercises/quizzes and course engagement activities (surveys)
-  - Get a score of **2** on all but 1 programming assignment, and no **0**'s on programming assignments
-  - Get a score of **2** on an assessment (exam) corresponding to each third of the course
 
-- To get a B or above, you must:
-  - Complete more than **75%** of the book exercises/quizzes and course engagement activities (surveys)
-  - Get a score of **2** on all but 2 programming assignments, and no **0**'s on programming assignments
-  - Get a score of **2** on an assessment (exam) corresponding to two of the three thirds of the course and at least a **1** on the final third.
 
-- To get a C- or above (a P on the P/NP scale), you must:
-  - Complete more than half book exercises/quizzes and course engagement activities (surveys)
-  - Get a score of **2** on at least half of the programming assignments
-  - Get a score of at least **1** on an assessment (exam) corresponding to each third of the course
 
 We may adjust the above scale to be more lenient 
 (depending on a number of factors that we will not publicize), but we guarantee 
@@ -73,7 +56,7 @@ sections, but it is highly encouraged.
 **In-person sessions** will be led during the normally-scheduled lecture times
 in the normally-scheduled room, led by the instructor. These sessions will be
 recorded by podcasting but will not be available remotely while they are ongoing. 
-You can find the recordings in the Canvas Media Gallery or at [podcast.ucsd.edu](https://podcast.ucsd.edu)
+You can find the recordings in the Canvas Media Gallery or at [podcast.ucsd.edu](https://podcast.ucsd.edu){:target="_blank"}
 
 Since these lectures may be mostly student discussion, the recordings are mostly 
 an archive of any live demos that come up rather than a presentation of core content.
@@ -91,7 +74,7 @@ Cavnas Media Gallery.
 
 Along with each lecture will come some required pre-lecture work. Most often
 this will be reading and activities from our [Stepik
-textbook](https://stepik.org/course/100177/syllabus), and will also sometimes
+textbook](https://stepik.org/course/100177/syllabus){:target="_blank"}, and will also sometimes
 include surveys or check-in quizzes so we can get your feedback about the course
 and check on your understanding.
 
@@ -103,8 +86,8 @@ session and so that you know the expected pace of the course.
 All Stepik exercises must be completed by the last day of class in Week 10: March 11, 2022 at 10pm.
 After this time, no late submissions will be accepted, for any reason.
 
-To ensure you get credit for the Stepik exercises, you must fill out this [form](https://forms.gle/oupi3xifMT6zxTKE6)
-by Friday of Week 2. Starting in Week 3, we will strive to post Stepik grades to Canvas every week.
+To ensure you get credit for the Stepik exercises, you must fill out this [form](https://forms.gle/t2CRZkWXVJZtwCdZ8){:target="_blank"}
+by Friday of Week 1. Starting in Week 2, we will strive to post Stepik grades to Canvas every week.
 
 <a id="p:programming"></a>
 <h3>Programming</h3>
