@@ -66,13 +66,13 @@ will be graded as usual.
 **I have a question about enrollments and the waitlist.**
 
 Please contact [CSE student
-affairs](https://cse.ucsd.edu/undergraduate/undergraduate/advising/cse-student-affairs-office-hours),
+affairs](https://cse.ucsd.edu/undergraduate/undergraduate/advising/cse-student-affairs-office-hours){:target="_blank"},
 who can give the best advice and information about the enrollment process. They
 are friendly and helpful and know much more about timing and any updates you
 will see through the registration system.
 
 There is some useful advice at [Enrolling in CSE
-Courses](https://cse.ucsd.edu/undergraduate/courses/enrolling-cse-courses) that
+Courses](https://cse.ucsd.edu/undergraduate/courses/enrolling-cse-courses){:target="_blank"} that
 likely summarizes a lot of what they would tell you to get you started.
 
 **Will the course be in-person or remote? Is attendance required?**
@@ -95,7 +95,7 @@ the exam (but not necessarily flexibility to take it on other days).
 **What's the course material like?**
 
 You can see a [previous version of the
-course](https://ucsd-cse11-s20.github.io/), which will give you a sense. This
+course](https://ucsd-cse11-s20.github.io/){:target="_blank"}, which will give you a sense. This
 offering will not be identical, but will be similar.
 
 There is no required textbook for you to purchase for the course. The course uses a combination of online resources and notes from the instructors.
@@ -103,19 +103,19 @@ There is no required textbook for you to purchase for the course. The course use
 **I'm not sure if I should take CSE11 or CSE8A.**
 
 We endorse the [CSE course placement
-advice](https://cse.ucsd.edu/index.php/undergraduate/courses/cse-course-placement-advice).
+advice](https://cse.ucsd.edu/index.php/undergraduate/courses/cse-course-placement-advice){:target="_blank"}.
 Also feel free to message g2miranda@eng.ucsd.edu if you're not sure.
 
 **Can I audit the course?**
 
 You can use all the public resources on this website, and if you're a UCSD
 community member, you can view all the podcasts for the problem sessions at
-[https://podcast.ucsd.edu/](https://podcast.ucsd.edu/). Beyond that we don't
+[https://podcast.ucsd.edu/](https://podcast.ucsd.edu/){:target="_blank"}. Beyond that we don't
 have any formalized support for auditing the course.
 
 
 **What if I have enrolled in CSE11 but won't be able to be in La Jolla for most
-or all of Spring 2022?**
+or all of Summer 2 2022?**
 
 If the attendance policy above doesn't address your situation, please contact
 `g2miranda@eng.ucsd.edu`.
