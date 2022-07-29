@@ -97,7 +97,8 @@ There are numerous opportunities to get feedback on your work and improve:
 
 **After you receive your grade** you can continue to improve your assignment
 based on the feedback from grading. You can resubmit your work to the Late/Resubmit 
-submission and request to have your work regraded one more times (for each PA) using Piazza. 
+submission and request to have your work regraded one more time (for each PA) using Piazza. 
+
 A staff member will grade your resubmission and let you know when it has been graded. 
 Note: depending on how busy the staff is, it may take a few days to grade your resubmission. 
 It may also take a week or so after it's graded before the grade is moved to Canvas.
