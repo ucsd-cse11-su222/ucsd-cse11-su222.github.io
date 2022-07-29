@@ -20,8 +20,8 @@ learning through your own program designs.
 This web page serves as the main source of announcements and resources for the
 course, as well as the syllabus.
 
-On an average week in CSE11, you can expect to spend 4-6 hours on videos,
-reading, lecture, and discussion; 2-3 hours on programming practice; and 4-6
+On an average week in CSE11 during summer, you can expect to spend 8-12 hours on videos,
+reading, lecture, and discussion; 4-6 hours on programming practice; and 8-12
 hours working on your programming projects. If you find yourself spending
 dramatically more time than this, it's a good idea to contact the course staff
 and discuss more efficient strategies in office hours.
