@@ -11,14 +11,14 @@ learning, and a few different ways to get in touch and ask for help.
 Quick links:
 
 - [Course FAQs (includes waitlist FAQs)](#faq)
-- Piazza Message Board: [https://piazza.com/ucsd/spring2022/cse11_sp22/home](https://piazza.com/ucsd/spring2022/cse11_sp22/home)
+- Piazza Message Board: [https://piazza.com/ucsd/summer2022/cse11_s222_a00/home](https://piazza.com/ucsd/summer2022/cse11_s222_a00/home)
 - Lab queue (autograder) for in person help: [https://autograder.ucsd.edu](https://autograder.ucsd.edu)
 - Tutoring Procedurs: [https://docs.google.com/document/d/1B6TSr3yXpRSiFg0fKgLGECXRKVvFLphC5053H8s9-WE/edit?usp=sharing](https://docs.google.com/document/d/1B6TSr3yXpRSiFg0fKgLGECXRKVvFLphC5053H8s9-WE/edit?usp=sharing)
 - Map link for CSE building lab entrance: [https://goo.gl/maps/Zps77SRmNapKfkbC9](https://goo.gl/maps/Zps77SRmNapKfkbC9)
   - You have permission to use _any_ lab, but prefer to use the B240 lab if space is available, that's where our staff will be based
 - Greg
   - Email: `g2miranda@eng.ucsd.edu`
-  - **Ooffice hours**: Monday, Tuesday, Wednesday, Thursday 12:30pm-1:30pm, CSE 4204
+  - **Office hours**: Monday, Tuesday, Wednesday, Thursday 12:30pm-1:30pm, CSE 4204
 
 Do NOT use the Canvas mailing feature to contact us. We will NOT respond to those
 messages. If you need to send a private message to the instructor, you can use his ucsd email
@@ -27,7 +27,7 @@ address (but any course related questions should ideally be through Piazza).
 ## Message Board Questions
 
 You can post questions on our Piazza message board at any time:
-[https://piazza.com/ucsd/spring2022/cse11_sp22/home](https://piazza.com/ucsd/spring2022/cse11_sp22/home)
+[https://piazza.com/ucsd/summer2022/cse11_s222_a00/home](https://piazza.com/ucsd/summer2022/cse11_s222_a00/home)
 
 The message board is a good place for questions about something that was
 confusing in class, in videos, in the book, or generally about course content.
