@@ -16,4 +16,4 @@ individual day links will take you to the course material for that day which you
 can review ahead of time. The assignment names link to the instructions for the
 assignments.
 
-<iframe style="border: none; border-top: 1px solid grey; border-spacing: 2px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRmDRXw-bIIDMOEB8-r0OdJJKkHnuKLXNHf41HWXmPqSt736yjfExH7X-5baPVMhHYOvHzFmexf-50c/pubhtml?widget=true&amp;headers=false" width="100%" height="1900px"></iframe>
+<iframe style="border: none; border-top: 1px solid grey; border-spacing: 2px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRmDRXw-bIIDMOEB8-r0OdJJKkHnuKLXNHf41HWXmPqSt736yjfExH7X-5baPVMhHYOvHzFmexf-50c/pubhtml?widget=true&amp;headers=false" width="100%" height="1000px"></iframe>
