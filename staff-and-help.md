@@ -89,7 +89,7 @@ student performance and higher grades.
 
 All of the exams, including the **final exam**, will be in-person. The midterm
 exam will be during lecture in Week 3. Students will be required to take the final exam 
-in-person during the scheduled block. The room for the final exam will be posted in
+in-person during the scheduled time. The room for the final exam will be posted in
 Week 5. 
 
 **What's the course material like?**
