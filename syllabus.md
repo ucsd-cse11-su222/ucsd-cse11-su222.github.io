@@ -34,6 +34,7 @@ There are a few components to your grade in the course:
 - Programming assignments
 - Programming assessments (exams)
 
+<img src="./cse_grading_scale.png" width="100%">
 
 
 
@@ -198,7 +199,7 @@ acts with integrity!), but we state it clearly in the syllabus in case it
 becomes necessary so it isn't a surprise to anyone.
 
 You should be familiar with [the UCSD
-guidelines](http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Appendices/2)
+guidelines](http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Appendices/2){:target="_blank"}
 on academic integrity as well.
 
 ### Regrades
