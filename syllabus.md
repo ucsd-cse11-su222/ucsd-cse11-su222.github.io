@@ -30,9 +30,11 @@ and discuss more efficient strategies in office hours.
 
 There are a few components to your grade in the course:
 
-- Completing book exercises in Stepik and course engagement activities (surveys)
-- Programming assignments
-- Programming assessments (exams)
+- 25% Completing book exercises in Stepik and course engagement activities (surveys)
+- 50% Programming assignments
+- 25% Programming assessments (exams)
+  - 10% Midterm Exam
+  - 15% Final Exam
 
 <img src="./cse_grading_scale.png" width="100%">
 
