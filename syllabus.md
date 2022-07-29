@@ -41,9 +41,7 @@ There are a few components to your grade in the course:
 We may adjust the above scale to be more lenient 
 (depending on a number of factors that we will not publicize), but we guarantee 
 that we will not adjust the scale to make it harder to get a better grade. 
-We will not adjust the scale for individual students.  
-Pluses and minuses will be given at the instructors'
-discretion around the boundaries of these categorizations.
+We will not adjust the scale for individual students. 
 
 <h3>Problem Sessions – Lecture</h3>
 
