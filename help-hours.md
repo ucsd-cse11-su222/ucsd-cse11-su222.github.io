@@ -73,7 +73,7 @@ Instructors for this course:
   - **Office hours**: Monday, Tuesday, Wednesday, Thursday 12:30pm-1:30pm, CSE 4204
   
 ### Our Staff
-The friendly faces of this course! We have 16 staff members(instructors, TAs, and tutors) here 
+The friendly faces of this course! We have 12 staff members(instructors, TAs, and tutors) here 
 to support you and help with your learning.
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRaqXfggvbJYR8p4wpohCr6gaFD16R--SSIg7Rd85YWVHVg3QyC8qJBa42sar42HyOipx7_tnkHVlGG/pubhtml?widget=true&amp;headers=false" width="100%" height="600px"></iframe>
