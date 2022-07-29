@@ -11,6 +11,10 @@ doodle: "/doodle.png"
 
 <iframe src="https://calendar.google.com/calendar/embed?src=c_m0i0rn7a5k7tvaevr14uh2qvu4%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-### Help Hours
+### Remote Help
 
 <iframe src="https://calendar.google.com/calendar/embed?src=c_1vkf2v4pdi8l2mqo2uh0273e7g%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+### In-Person Help
+
+<iframe src="https://calendar.google.com/calendar/embed?src=c_7a710npm9bnsc568dv21eh848s%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
