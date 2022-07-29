@@ -1,10 +1,10 @@
 ---
 layout: with-sidebar
-title: "Syllabus – UCSD CSE11 Spring 22"
+title: "Syllabus – UCSD CSE11 Summer 2 22"
 doodle: "/doodle.png"
 ---
 
-# UCSD CSE 11 Spring 2022
+# UCSD CSE 11 Summer 2 2022
 ## Accelerated Intro to Programming
 
 _Greg Miranda_
