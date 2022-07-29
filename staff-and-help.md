@@ -5,7 +5,7 @@ title: "UCSD CSE11 – Accelerated Introduction to Programming"
 # UCSD CSE 11 Summer 2 2022
 ## Asking Questions and Getting Help
 
-There are 16 staff members (instructor, TAs, and tutors) to help with your
+There are 12 staff members (instructor, TAs, and tutors) to help with your
 learning, and a few different ways to get in touch and ask for help.
 
 Quick links:
@@ -87,10 +87,10 @@ Attendance is not required, but is highly recommended. Studies (by UCSD faculty)
 have shown that attendance and participation in lecture leads to better
 student performance and higher grades.
 
-All of the exams, including the **final exam**, will have an asynchronous format. 
-Students will not be required to take the final exam during the scheduled block, 
-and there will be some flexibility on when it needs to be completed on the day of 
-the exam (but not necessarily flexibility to take it on other days). 
+All of the exams, including the **final exam**, will be in-person. The midterm
+exam will be during lecture in Week 3. Students will be required to take the final exam 
+in-person during the scheduled block. The room for the final exam will be posted in
+Week 5. 
 
 **What's the course material like?**
 
@@ -113,12 +113,13 @@ community member, you can view all the podcasts for the problem sessions at
 [https://podcast.ucsd.edu/](https://podcast.ucsd.edu/){:target="_blank"}. Beyond that we don't
 have any formalized support for auditing the course.
 
-
 **What if I have enrolled in CSE11 but won't be able to be in La Jolla for most
 or all of Summer 2 2022?**
 
-If the attendance policy above doesn't address your situation, please contact
-`g2miranda@eng.ucsd.edu`.
+You will be required to take all exams in-person. We will not offer any
+remote options for the exams. If you cannot take the exams in-person,
+you will not be able to pass the course. 
+
 
 **Do we need a clicker for this class?**
 
