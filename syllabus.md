@@ -118,7 +118,7 @@ Each student gets a free “slip day” that allow an automatic 24-hour extensio
 You do not have to ask to use your slip day. Just submit your assignment after the deadline 
 (but before 24 hours after the deadline) to automatically use your slip day. 
 
-You must score at least 55% (average) on the programming assignments of this course (add the 8 PA percentages, divide by 8). If you average lower than 55% on the assignments, you will receive an F for the course, regardless of your overall average. 
+**You must score at least 55% (average) on the programming assignments of this course (add the 8 PA percentages, divide by 8). If you average lower than 55% on the assignments, you will receive an F for the course, regardless of your overall average.**
 
 <a id="g:exams"></a>
 <h3>Exams</h3>
@@ -128,9 +128,9 @@ There will be two in-person exams in this course: a midterm and a final exam. Th
 - Midterm Exam: Thursday, August 18th 2022
 - Final Exam: Friday, September 2nd 2022
 
-The final exam will be cumulative and will cover all topics discussed in the course. You must pass the final exam to pass this course. You must score at least 55% on the final exam to pass the final exam.
+The final exam will be **cumulative** and will cover all topics discussed in the course. **You must pass the final exam to pass this course.** You must score **at least 55%** on the final exam to pass the final exam.
 
-If your final exam score (in percentage) is higher than your midterm score, then your midterm score will be replaced by your final exam score!
+**If your final exam score (in percentage) is higher than your midterm score, then your midterm score will be replaced by your final exam score!**
 
 <a id="policies"></a>
 ## Policies
