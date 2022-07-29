@@ -15,7 +15,7 @@ Quick links:
 - Lab queue (autograder) for in person help: [https://autograder.ucsd.edu](https://autograder.ucsd.edu){:target="_blank"}
 - Tutoring Procedurs: [https://docs.google.com/document/d/1B6TSr3yXpRSiFg0fKgLGECXRKVvFLphC5053H8s9-WE/edit?usp=sharing](https://docs.google.com/document/d/1B6TSr3yXpRSiFg0fKgLGECXRKVvFLphC5053H8s9-WE/edit?usp=sharing){:target="_blank"}
 - Map link for CSE building lab entrance: [https://goo.gl/maps/Zps77SRmNapKfkbC9](https://goo.gl/maps/Zps77SRmNapKfkbC9){:target="_blank"}
-  - You have permission to use _any_ lab, but prefer to use the B240 lab if space is available, that's where our staff will be based
+  - You have permission to use _any_ lab, but prefer to use the B250 lab if space is available, that's where our staff will be based
 - Greg
   - Email: `g2miranda@eng.ucsd.edu`
   - **Office hours**: Monday, Tuesday, Wednesday, Thursday 12:30pm-1:30pm, CSE 4204
