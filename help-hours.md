@@ -32,7 +32,7 @@ You can get remote help from anywhere as long as you have a stable internet conn
 
 Then follow the steps in the tutoring procedures document for submitting a ticket.
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_5opvlo73bldf3n14nojolje6o4%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_1vkf2v4pdi8l2mqo2uh0273e7g%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ### In-person Help
 
@@ -44,7 +44,7 @@ Then follow the steps in the tutoring procedures document for submitting a ticke
 Check on this calendar for our *in-person* availability (also available on the general calendar
 page):
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_8t2iok181rahpuvdmlnorep724%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_7a710npm9bnsc568dv21eh848s%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 #### More information on finding the in-person labs:
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13402.475705970317!2d-117.2335235!3d32.8818006!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa7dc3be7597d4d47!2sComputer%20Science%20and%20Engineering%20Building!5e0!3m2!1sen!2sus!4v1632176178912!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
@@ -70,12 +70,10 @@ help hours with the tutors.
 Instructors for this course:
 - Greg
   - Email: `g2miranda@eng.ucsd.edu`
-  - **In-person only office hours**: Tuesday 9:45am-11:15am, CSE 4204
-  - **Remote only office hours**: Thursday 9:45am-11:15am, [https://ucsd.zoom.us/my/gregmiranda](https://ucsd.zoom.us/my/gregmiranda)
+  - **Office hours**: Monday, Tuesday, Wednesday, Thursday 12:30pm-1:30pm, CSE 4204
   
 ### Our Staff
 The friendly faces of this course! We have 16 staff members(instructors, TAs, and tutors) here 
 to support you and help with your learning.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRkNkg3OfiesJ2K3kAnN75z_flNi9KDXBHhg5TaxIJVOjcHtK6vp9wgfknoajmy5s6ZHfj2oBUzD1zY/pubhtml?widget=true&amp;headers=false"
-width="100%" height="630px"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRaqXfggvbJYR8p4wpohCr6gaFD16R--SSIg7Rd85YWVHVg3QyC8qJBa42sar42HyOipx7_tnkHVlGG/pubhtml?widget=true&amp;headers=false" width="100%" height="630px"></iframe>
