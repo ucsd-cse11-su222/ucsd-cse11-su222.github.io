@@ -11,10 +11,10 @@ learning, and a few different ways to get in touch and ask for help.
 Quick links:
 
 - [Course FAQs (includes waitlist FAQs)](#faq)
-- Piazza Message Board: [https://piazza.com/ucsd/summer2022/cse11_s222_a00/home](https://piazza.com/ucsd/summer2022/cse11_s222_a00/home)
-- Lab queue (autograder) for in person help: [https://autograder.ucsd.edu](https://autograder.ucsd.edu)
-- Tutoring Procedurs: [https://docs.google.com/document/d/1B6TSr3yXpRSiFg0fKgLGECXRKVvFLphC5053H8s9-WE/edit?usp=sharing](https://docs.google.com/document/d/1B6TSr3yXpRSiFg0fKgLGECXRKVvFLphC5053H8s9-WE/edit?usp=sharing)
-- Map link for CSE building lab entrance: [https://goo.gl/maps/Zps77SRmNapKfkbC9](https://goo.gl/maps/Zps77SRmNapKfkbC9)
+- Piazza Message Board: [https://piazza.com/ucsd/summer2022/cse11_s222_a00/home](https://piazza.com/ucsd/summer2022/cse11_s222_a00/home){:target="_blank"}
+- Lab queue (autograder) for in person help: [https://autograder.ucsd.edu](https://autograder.ucsd.edu){:target="_blank"}
+- Tutoring Procedurs: [https://docs.google.com/document/d/1B6TSr3yXpRSiFg0fKgLGECXRKVvFLphC5053H8s9-WE/edit?usp=sharing](https://docs.google.com/document/d/1B6TSr3yXpRSiFg0fKgLGECXRKVvFLphC5053H8s9-WE/edit?usp=sharing){:target="_blank"}
+- Map link for CSE building lab entrance: [https://goo.gl/maps/Zps77SRmNapKfkbC9](https://goo.gl/maps/Zps77SRmNapKfkbC9){:target="_blank"}
   - You have permission to use _any_ lab, but prefer to use the B240 lab if space is available, that's where our staff will be based
 - Greg
   - Email: `g2miranda@eng.ucsd.edu`
@@ -27,7 +27,7 @@ address (but any course related questions should ideally be through Piazza).
 ## Message Board Questions
 
 You can post questions on our Piazza message board at any time:
-[https://piazza.com/ucsd/summer2022/cse11_s222_a00/home](https://piazza.com/ucsd/summer2022/cse11_s222_a00/home)
+[https://piazza.com/ucsd/summer2022/cse11_s222_a00/home](https://piazza.com/ucsd/summer2022/cse11_s222_a00/home){:target="_blank"}
 
 The message board is a good place for questions about something that was
 confusing in class, in videos, in the book, or generally about course content.
