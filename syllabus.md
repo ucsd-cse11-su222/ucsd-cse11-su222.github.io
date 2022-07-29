@@ -119,63 +119,19 @@ Each student gets a free “slip day” that allow an automatic 24-hour extensio
 You do not have to ask to use your slip day. Just submit your assignment after the deadline 
 (but before 24 hours after the deadline) to automatically use your slip day. 
 
+You must score at least 55% (average) on the programming assignments of this course (add the 8 PA percentages, divide by 8). If you average lower than 55% on the assignments, you will receive an F for the course, regardless of your overall average. 
+
 <a id="g:exams"></a>
 <h3>Exams</h3>
 
+There will be two in-person exams in this course: a midterm and a final exam. The exam dates/times are shown below:
 
+Midterm Exam: Thursday, August 18th 2022
+Final Exam: Friday, September 2nd 2022
 
+The final exam will be cumulative and will cover all topics discussed in the course. You must pass the final exam to pass this course. You must score at least 55% on the final exam to pass the final exam.
 
-
-In place of on-paper exams, we will follow a different procedure for “exams”
-this quarter.
-
-Three times during the quarter and once at the time of the final exam, we will
-give you a programming assignment that you must complete in a short (24-48
-hours) time frame without any help from other people, including the course
-staff. The final exam is cumulative, with three sections that each correspond to
-the material from one of the in-quarter exams. Your score on the assessment for
-a “third” of the course is the **maximum** of your score on that in-quarter exam
-and that part on the final. 
-
-For example:
-
-- On the three in-quarter exams you score 75, 0, and 95 (you miss the second). On
-the final exam you score 80, 75, and 0 on the three parts. Your assessment scores
-are 95, 75, 80, sufficient for a B, but not an A.
-- On the three in-quarter exams you score 95, 93, and 90. You skip the final so
-your scores are 0, 0, 0. Your assessment scores are 95, 93, 90, sufficient for an
-A.
-- On the three in-quarter exams you score 75, 55, and 60. On the final you score 95,
-90, 94. Your assessment scores are 95, 90, 94, sufficient for an A.
-
-This grading policy also forms the missed exam policy – if you miss an
-in-quarter exam, you can make up that credit on the final. If you miss the
-final, your in-quarter exam scores will be used. Late work on exams or make-up
-exams will not be offered.
-
-You can use any resources, notes, readings, and past code from the course to
-help in addition to Web-based resources.  Along with submitting the program, you
-will record a short video of yourself presenting the program you wrote,
-demonstrating its behavior and your understanding. We'll give some opportunities
-for practice with this process, and much more detailed instructions with the
-exam release.
-
-We **do not** expect that the programming work and recording will take a full
-day of constant work. The tasks will be significantly shorter than the PAs, so this
-should only take a few hours. We give the broad range to give you the best
-chance to schedule some quiet, focused time to do the work and record the
-presentation.
-
-It's worth explaining why we are using this mechanism. There are at least two
-reasons:
-
-1. Presenting your code, and demonstrating it via screenshare, is a really
-important skill and shows us a lot of your learning. Getting practice with this
-style of presentation is a good thing for you to learn in general and a rich
-way for us to assess your skills.
-2. The main thing that in-person, on-paper exams let us do is easily verify
-that it is in fact **you**, the student, completing a major assessment. We can
-similarly do so with a video.
+If your final exam score (in percentage) is higher than your midterm score, then your midterm score will be replaced by your final exam score!
 
 <a id="policies"></a>
 ## Policies
