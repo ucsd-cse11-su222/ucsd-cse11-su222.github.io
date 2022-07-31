@@ -142,16 +142,17 @@ should pay attention to the descriptions of what collaboration is allowed and
 expected on each assignment.
 
 One challenge we face as an instructional team is verifying that students are
-submitting their own work given the number of remote and asynchronous options we
-provide. In the past, we relied on in-person, ID-checked exams to mitigate this
-particular challenge to academic integrity. Assignments and exams will come with
+submitting their own work. We rely on ID-checked exams to mitigate this
+particular challenge to academic integrity. 
+
+Assignments and exams will come with
 specific policies for what types of collaboration is allowed, but we have one
 course-wide policy – we may reach out to students to schedule a check-in on
 their understanding of work they've submitted if we're suspicious about an
-academic integrity violation.  This would involve a video conference with a TA or
-instructor to check that the student has the understanding demonstrated by their
-work. This is in addition to any video screencasts that are submitted as a part
-of the exam.
+academic integrity violation.  
+
+This would involve a meeting with a TA or instructor to check that the student 
+has the understanding demonstrated by their work. 
 
 We don't expect to use this option much (certainly **you** are a student that
 acts with integrity!), but we state it clearly in the syllabus in case it
