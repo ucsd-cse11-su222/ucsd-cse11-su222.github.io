@@ -2,7 +2,7 @@
 layout: with-sidebar
 index: 3
 name: Methods
-released-on: "2022-08-03"
+released-on: "2022-08-02"
 videos:
   - title: Diagramming and Vocabulary Review
     url: https://drive.google.com/file/d/1lxNyu3kfqZ4wREkxrX8h7a2p_LpB1okR
