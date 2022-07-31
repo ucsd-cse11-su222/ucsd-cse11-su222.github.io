@@ -125,7 +125,7 @@ You do not have to ask to use your slip day. Just submit your assignment after t
 
 There will be two in-person exams in this course: a midterm and a final exam. The exam dates/times are shown below:
 
-- Midterm Exam: Thursday, August 18th 2022
+- Midterm Exam: Wednesday, August 17th 2022
 - Final Exam: Friday, September 2nd 2022
 
 The final exam will be **cumulative** and will cover all topics discussed in the course. **You must pass the final exam to pass this course.** You must score **at least 55%** on the final exam to pass the final exam.
