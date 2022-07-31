@@ -25,11 +25,11 @@ _{{ page.released-on }}_
 
 ## Pre-class Tasks
 
-Readings (to complete **before** class).
+Readings to be completed **before** problem session.
 
 - No Stepik readings for this lecture
 
-Videos (to watch **before** class):
+Videos (to watch **before** problem session):
 
 {% for video in page.videos %}
 [{{ video.title }}]({{ video.url }}){:target="_blank"}
