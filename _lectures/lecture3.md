@@ -16,7 +16,8 @@ videos:
     url: https://drive.google.com/file/d/1m_72isftSttgHZ9Rj9PR1I4hPbzzAFyH
 
 worksheets:
-
+  - title: Lecture - Part 1 (from Tuesday)
+    url: https://drive.google.com/file/d/13ypXpM9L_gc9Q_AfPgKcC42P8_jC5vKR
 ---
 
 ## Problem Session 3 – Vocabulary and Methods
