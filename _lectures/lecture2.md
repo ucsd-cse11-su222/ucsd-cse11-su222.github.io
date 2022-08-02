@@ -32,7 +32,7 @@ You will need to make an account on Stepik to have your work saved.
 To ensure you get credit for the Stepik exercises, you must fill out this [form](https://forms.gle/QyqaekMyzHAiywno7){:target="_blank"}
 by Friday of Week 1. Starting in Week 2, we will strive to post Stepik grades to Canvas every week.
 
-The university requries us to have to determine which students commence academic activity. Failure to certify academic activity, may result in students being billed for unearned financial aid.
+The university requires us to have to determine which students commence academic activity. Failure to certify academic activity, may result in students being billed for unearned financial aid.
 
 To do this automatically, we are using a survey in Canvas that every student must fill out by the end of Friday
 to ensure that they are certified.
