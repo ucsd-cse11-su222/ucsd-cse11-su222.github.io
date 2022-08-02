@@ -29,6 +29,12 @@ Readings to be completed **before** problem session.
 
 - No Stepik readings for this lecture
 
+The university requries us to have to determine which students commence academic activity. Failure to certify academic activity, may result in students being billed for unearned financial aid.
+
+To do this automatically, we are using a survey in Canvas that every student must fill out by the end of Friday
+to ensure that they are certified.
+- [First Day Survey: Tell Me About Yourself #FinAid](https://canvas.ucsd.edu/courses/38222/quizzes/109090){:target="_blank"} 
+
 Videos (to watch **before** problem session):
 
 {% for video in page.videos %}
