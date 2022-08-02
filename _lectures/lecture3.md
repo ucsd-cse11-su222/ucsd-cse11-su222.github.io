@@ -29,7 +29,7 @@ Readings to be completed **before** problem session.
 
 - [Stepik 3.1-3.4](https://stepik.org/lesson/559662/step/1?unit=553722){:target="_blank"}
 
-The university requires us to have to determine which students commence academic activity. Failure to certify academic activity, may result in students being billed for unearned financial aid.
+The university requires us to determine which students commence academic activity. Failure to certify academic activity, may result in students being billed for unearned financial aid.
 
 To do this automatically, we are using a survey in Canvas that every student must fill out by the end of Friday
 to ensure that they are certified.
