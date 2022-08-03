@@ -27,6 +27,13 @@ Readings to be completed **before** problem session.
 
 - Stepik Chapter 4 [https://stepik.org/lesson/568133/step/1?unit=562510](https://stepik.org/lesson/568133/step/1?unit=562510)
 
+
+Each week, we will have a student experience survey to tell us how things are going. This survey will be 
+graded as engagement, i.e. with the Stepik exercises.
+
+Please fill out the following survey by Monday, August 8th at 10pm.
+[CSE 11 Student Experience Survey](https://forms.gle/REPLN8uneDgucLE29){:target="_blank"} 
+
 Videos (to watch **before** problem session):
 
 {% for video in page.videos %}
