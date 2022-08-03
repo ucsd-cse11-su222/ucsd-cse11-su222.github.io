@@ -30,6 +30,12 @@ Readings to be completed **before** problem session.
 
 - No Stepik readings for this lecture
 
+Each week, we will have a student experience survey to tell us how things are going. This survey will be 
+graded as engagement, i.e. with the Stepik exercises.
+
+Please fill out the following survey by Monday @ 10pm.
+[CSE 11 Student Experience Survey](https://forms.gle/REPLN8uneDgucLE29){:target="_blank"} 
+
 The university requires us to determine which students commence academic activity. Failure to certify academic activity, may result in students being billed for unearned financial aid.
 
 To do this automatically, we are using a survey in Canvas that every student must fill out by the end of Friday
