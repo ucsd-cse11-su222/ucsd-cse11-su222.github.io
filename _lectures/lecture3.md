@@ -18,6 +18,8 @@ videos:
 worksheets:
   - title: Lecture - Part 1 (from Tuesday)
     url: https://drive.google.com/file/d/13ypXpM9L_gc9Q_AfPgKcC42P8_jC5vKR
+  - title: Lecture - Part 2 (from Wednesday)
+    url: https://drive.google.com/file/d/14dCnKVPQ93GMZJKuKpsbtXnXo8-kQop5
 ---
 
 ## Problem Session 3 – Vocabulary and Methods
