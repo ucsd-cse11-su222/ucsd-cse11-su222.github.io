@@ -22,7 +22,7 @@ Stepik reading:
 Each week, we will have a student experience survey to tell us how things are going. This survey will be 
 graded as engagement, i.e. with the Stepik exercises.
 
-Please fill out the following survey by Monday, August 8th at 10pm for Week 2.
+Please fill out the following survey by Monday, August 15th at 10pm for Week 2.
 [CSE 11 Student Experience Survey](https://forms.gle/REPLN8uneDgucLE29){:target="_blank"} 
 
 {% for video in page.videos %}
