@@ -2,7 +2,7 @@
 layout: with-sidebar
 index: 11
 name: Interfaces and Recursion
-released-on: "2022-4-20"
+released-on: "2022-08-11"
 videos:
   - title: Interfaces (watch 30:00 to the end)
     url: https://drive.google.com/file/d/1FsiNPr6N5yiFymHtwCdDHYHt03mWNw_Q
