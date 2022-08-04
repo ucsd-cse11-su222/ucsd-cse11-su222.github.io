@@ -2,7 +2,7 @@
 layout: with-sidebar
 index: 12
 name: Arrays
-released-on: "2022-4-22"
+released-on: "2022-08-11"
 videos:
   - title: Arrays
     url: https://drive.google.com/file/d/1TglDg1vHTC1ibjO4WJR8SJJSfvpMp9fC
