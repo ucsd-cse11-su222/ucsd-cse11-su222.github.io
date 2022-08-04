@@ -14,7 +14,8 @@ videos:
     url: https://drive.google.com/file/d/1Akg2I_XKXuyOImRrVD6phPk-x-YBfcL8
 
 worksheets:
-
+  - title: Lecture
+    url: https://drive.google.com/file/d/14kC1MMxZKhW0dxiF-98DenK_LO7PcT7U
 ---
 
 ## Problem Session 5 – Booleans and If
