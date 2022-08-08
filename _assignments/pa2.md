@@ -174,6 +174,6 @@ A submission checklist can be found [here](#submission-checklist)
 
 ## Grading
 
-There are multiple oppurtunities to get feedback for PA1. By submitting before the deadline, you will receive feedback after it is graded shortly after the dealine. You may also submit to the Late/Resubmit for PA2 one time after the deadline to earn additional feedback.
+There are multiple oppurtunities to get feedback for PA2. By submitting before the deadline, you will receive feedback after it is graded shortly after the dealine. You may also submit to the Late/Resubmit for PA2 one time after the deadline to earn additional feedback.
 
 For more information about the grading policy, visit the [course syllabus](https://ucsd-cse11-su222.github.io/syllabus.html).
