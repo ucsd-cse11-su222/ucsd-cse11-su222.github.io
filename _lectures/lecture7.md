@@ -12,7 +12,8 @@ videos:
     url: https://drive.google.com/file/d/1WSf8sB8OZOz8Y4O8x7l4qKLP4McYIqo7
 
 worksheets:
-
+  - title: Lecture (from Monday)
+    url: https://drive.google.com/file/d/15qZBLZ3IHmzwyWSMiaHQuzanpNx8Oqof
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
