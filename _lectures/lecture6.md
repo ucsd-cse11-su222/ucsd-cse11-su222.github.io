@@ -16,6 +16,8 @@ videos:
 worksheets:
   - title: Lecture - Part 1 (from Thursday)
     url: https://drive.google.com/file/d/14tQkK91DghYBDmMwsxihMqTiSJwoTdc2
+  - title: Lecture - Part 2 (from Monday)
+    url: https://drive.google.com/file/d/15q1_9DZHoTN5yM_8jjtkzjGfoj0NW0cD
 ---
 
 ## Problem Session 6 – Classes and Constructors
