@@ -4,7 +4,8 @@ index: 9
 name: Nested Data
 released-on: "2022-08-09"
 worksheets:
-
+  - title: Lecture - Part 1 (from Tuesday)
+    url: https://drive.google.com/file/d/17kpkdVSvDuP_EUy6_vhbqYJDJN1BtMV-
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
