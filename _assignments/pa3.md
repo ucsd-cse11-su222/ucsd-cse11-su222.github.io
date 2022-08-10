@@ -119,7 +119,7 @@ To show that a statement is true, write a Java program that matches the statemen
 
 To show that a statement is false, write a Java program that matches the statement and produces an error when run, demonstrating that Java programs cannot do what the property says.
 
-Include both the program and the output of running the program without error as your submission; you can upload screenshots as images clearly named with ```Open1A```, ```Open1B```, etc in the title, or copy-paste the text output into a comment in your code.
+Include both the program and the output of running the program as your submission; you can upload screenshots as images clearly named with ```Open1A```, ```Open1B```, etc in the title, or copy-paste the text output into a comment in your code.
 
 ### Open-Ended 2 (manually graded)
 Create a class named ```R``` that has a field of type ```String``` and a field of type ```R```. Give it a constructor that initializes both fields. Put the class in a file called ```ExamplesR.java```. Add an ```ExamplesR``` class to this file, and answer the following questions in that file:
