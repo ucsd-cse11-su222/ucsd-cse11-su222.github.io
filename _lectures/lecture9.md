@@ -6,6 +6,8 @@ released-on: "2022-08-09"
 worksheets:
   - title: Lecture - Part 1 (from Tuesday)
     url: https://drive.google.com/file/d/17kpkdVSvDuP_EUy6_vhbqYJDJN1BtMV-
+  - title: Lecture - Part 2 (from Wednesday)
+    url: https://drive.google.com/file/d/17rLEo3Hsas5zee8B1UJXoJGUN1xg1ZM0
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
