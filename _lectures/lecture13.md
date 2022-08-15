@@ -9,7 +9,8 @@ videos:
   - title: args
     url: https://drive.google.com/file/d/14Vtg9aJoa_E_34yIR1CLKDXn1KHIC-0e
 worksheets:
-
+  - title: Lecture (from Monday)
+    url: https://drive.google.com/file/d/18YTG3r6Xxfk6plGOX1mYqXlS-N4zYaZv
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
