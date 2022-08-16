@@ -25,7 +25,7 @@ Stepik 12.1: [https://stepik.org/lesson/614368/step/1?unit=609810](https://stepi
 Each week, we will have a student experience survey to tell us how things are going. This survey will be 
 graded as engagement, i.e. with the Stepik exercises.
 
-Please fill out the following survey by Monday, August 22nd at 10pm for Week 4.
+Please fill out the following survey by Monday, August 29th at 10pm for Week 4.
 [CSE 11 Student Experience Survey](https://forms.gle/K3jeXkUrLYZoDd3q7){:target="_blank"} 
 
 Videos:
