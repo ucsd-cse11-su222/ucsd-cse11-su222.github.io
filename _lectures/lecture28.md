@@ -32,6 +32,12 @@ This worked example will serve as a review of most of the topics we've seen in
 class so far, including interfaces, `Collections` classes, loops, recursion,
 testing, and memory diagrams.
 
+Each week, we will have a student experience survey to tell us how things are going. This survey will be 
+graded as engagement, i.e. with the Stepik exercises.
+
+Please fill out the following survey by Saturday, September 3rd at 10pm for Week 5.
+[CSE 11 Student Experience Survey](https://forms.gle/BQoh4ijXm6DnpXd49){:target="_blank"} 
+
 Videos:
 
 {% for video in page.videos %}
