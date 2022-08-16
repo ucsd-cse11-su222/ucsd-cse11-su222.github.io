@@ -26,10 +26,6 @@ worksheets:
 
 _{{ page.released-on }}_
 
-Due to family emergency, there will be no in-person lecture on Wednesday, June 1st.
-
-Watch the Lecture Video Recording (From Winter 2022) and do the handouts on your own. You can find the video recording at the bottom of this page.
-
 ## Pre-class Tasks
 
 This worked example will serve as a review of most of the topics we've seen in
