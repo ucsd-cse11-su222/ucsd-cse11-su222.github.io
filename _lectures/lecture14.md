@@ -13,7 +13,8 @@ videos:
   - title: Loops Examples
     url: https://drive.google.com/file/d/1BwyC-9QP85-SX3VlSPkbNfWxjrmTd4dT
 worksheets:
-
+  - title: Lecture (from Tuesday)
+    url: https://drive.google.com/file/d/1EKG9_FcTbbBmsAkYkYcRo362k1O2D2vX
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
