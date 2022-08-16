@@ -39,10 +39,6 @@ Videos:
 
 <iframe src="https://drive.google.com/file/d/1w2Q8av80clKFS03ypRvxCKwqMSTQY01n/preview" width="640" height="480" allow="autoplay"></iframe>
 
-## Recording
-
-[Lecture 22 - Recording](https://podcast.ucsd.edu/watch/wi22/cse11_a00/22){:target="_blank"}
-
 ## Completed Worksheets from Lecture
 
 {% for worksheet in page.worksheets %}
