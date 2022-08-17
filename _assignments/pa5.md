@@ -15,6 +15,10 @@ released-on: "2022-08-17"
 ## Collaboration
 Different assignments in this course have different collaboration policies. On this assignment, you can collaborate with anyone in the course, including sharing code. In your submission, give credit to all students and course staff who helped you with this assignment by noting their name and how you used their ideas or work. Note that using someone's work without giving credit to them is a violation of academic integrity.
 
+You can get the starter code at
+
+[https://github.com/ucsd-cse11-su222/cse11-pa5-starter](https://github.com/ucsd-cse11-su222/cse11-pa5-starter)
+
 ## Array Methods
 In a file called ```ArrayExamples.java```, write the following methods in a class called ```ArrayExamples```. For **each**, write **at least three** tests (a test is a use of ```checkExpect```) where each of the three has a different length of array used in the input.
 
