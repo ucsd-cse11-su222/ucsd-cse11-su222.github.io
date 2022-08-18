@@ -17,6 +17,8 @@ videos:
 worksheets:
   - title: Lecture - Part 1 (from Tuesday)
     url: https://drive.google.com/file/d/1EPgqiVtbMT3ypJfoexIBMqhOea8vfbpg
+  - title: Lecture - Part 2 (from Thursday)
+    url: https://drive.google.com/file/d/1JEmzxL7missWFFoz0HPgk-7DRCpy5NNc
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
