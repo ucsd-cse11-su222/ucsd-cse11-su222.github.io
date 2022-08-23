@@ -9,7 +9,8 @@ videos:
   - title: Region Loop
     url: https://drive.google.com/file/d/157v75MQE_k0h-z9S3_tCVvaHIP-nvWFs
 worksheets:
-
+  - title: Lecture (from Monday)
+    url: https://drive.google.com/file/d/1JPPLKf-nNFKNKiFW7bFDi_-ITkMv3NST
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
