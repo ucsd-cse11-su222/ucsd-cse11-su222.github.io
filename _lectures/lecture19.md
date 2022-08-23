@@ -5,7 +5,8 @@ name: Connect 4!
 released-on: "2022-08-23"
 videos:
 worksheets:
-
+  - title: Lecture (from Tuesday)
+    url: https://drive.google.com/file/d/1Jb0Q4hKn_3Jc4q8V_-92HlNsqqQakAPK
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
