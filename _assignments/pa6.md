@@ -1,6 +1,6 @@
 ---
 layout: with-sidebar
-index: 7
+index: 6
 name: PA6
 released-on: "2022-08-22"
 ---
