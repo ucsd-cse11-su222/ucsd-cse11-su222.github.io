@@ -5,7 +5,8 @@ name: Debugging
 released-on: "2022-08-24"
 videos:
 worksheets:
-
+  - title: Lecture - Part 1 (from Wednesday)
+    url: https://drive.google.com/file/d/1JgZJBMgUmfW8QQEnWO76Wl6J7s_KYqVj
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
