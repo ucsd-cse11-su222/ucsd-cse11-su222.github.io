@@ -13,7 +13,8 @@ videos:
   - title: Constructor Exceptions
     url: https://drive.google.com/file/d/18cK8aOJ5u2shclhOltpPwUoELer3vHgI
 worksheets:
-
+  - title: Lecture (from Wednesday)
+    url: https://drive.google.com/file/d/1JiRlr7pdwmNSm2CeE8kuiZl4V-2CJJTX
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
