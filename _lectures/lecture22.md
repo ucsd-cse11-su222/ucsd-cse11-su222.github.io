@@ -11,7 +11,8 @@ videos:
     - title: "Implementing with Generics"
       url: https://drive.google.com/file/d/1bXk5leiFDmvc8b5fnqaox0Xd1AdwXS1_
 worksheets:
-
+  - title: Lecture (from Thursday)
+    url: ?https://drive.google.com/file/d/1LN4Lsd8y1uL7kn-aCopnwlP8jkoUSDwY
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
