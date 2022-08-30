@@ -11,7 +11,8 @@ videos:
     - title: "ArrayLists – Overloading"
       url: https://drive.google.com/file/d/1hOvnt1rBitXqE91kS7xSrTrSZVNaX9dZ
 worksheets:
-
+  - title: Lecture - Part 1 (from Monday)
+    url: https://drive.google.com/file/d/1LrSzgJd8_sFgBOp8FJwpXhJwbxtSJFrl
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
