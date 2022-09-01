@@ -19,7 +19,8 @@ videos:
     - title: "Trace 2"
       url: https://drive.google.com/file/d/1fIpX2oxDNnKQx2yhilkzDXvklS-S96k3
 worksheets:
-
+  - title: Lecture (from Thursday)
+    url: https://drive.google.com/file/d/1OLK-SuNj8WHZfPiFjmzJ3jHVVLmlcnsg
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
