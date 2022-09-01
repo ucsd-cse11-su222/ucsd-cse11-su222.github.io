@@ -80,7 +80,7 @@ times to finish the readings. There is no penalty for completing these late, but
 they are assigned so that you will be prepared to participate in problem solving
 session and so that you know the expected pace of the course. 
 
-All Stepik exercises must be completed by the last day of class in Week 5: September 2nd, 2022 at 10pm.
+All Stepik exercises must be completed by the last day of class in Week 5: September 3rd, 2022 at 10pm.
 After this time, no late submissions will be accepted, for any reason.
 
 To ensure you get credit for the Stepik exercises, you must fill out this 
